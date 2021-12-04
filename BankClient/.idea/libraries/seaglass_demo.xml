@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="seaglass-demo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/seaglass-demo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/forms-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/JTattoo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/lipstikLF-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/mac_widgets-0.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/seaglass-demo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/synthetica_2.16.1_eval.zip!/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Soft/1_DEVELOP_TOOLS/JAVA/Look and feel/lipstikLF-1.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
